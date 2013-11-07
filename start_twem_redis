@@ -1,0 +1,70 @@
+#!/bin/sh 
+
+#here is main redis pre shading.
+./redis-server redis.conf --port 6400 --syslog-ident redis00 --dbfilename redisdump00.rdb --pidfile /var/tmp/redis00.pid
+./redis-server redis.conf --port 6401 --syslog-ident redis01 --dbfilename redisdump01.rdb --pidfile /var/tmp/redis01.pid
+./redis-server redis.conf --port 6402 --syslog-ident redis02 --dbfilename redisdump02.rdb --pidfile /var/tmp/redis02.pid
+./redis-server redis.conf --port 6403 --syslog-ident redis03 --dbfilename redisdump03.rdb --pidfile /var/tmp/redis03.pid
+./redis-server redis.conf --port 6404 --syslog-ident redis04 --dbfilename redisdump04.rdb --pidfile /var/tmp/redis04.pid
+./redis-server redis.conf --port 6405 --syslog-ident redis05 --dbfilename redisdump05.rdb --pidfile /var/tmp/redis05.pid
+./redis-server redis.conf --port 6406 --syslog-ident redis06 --dbfilename redisdump06.rdb --pidfile /var/tmp/redis06.pid
+./redis-server redis.conf --port 6407 --syslog-ident redis07 --dbfilename redisdump07.rdb --pidfile /var/tmp/redis07.pid
+./redis-server redis.conf --port 6408 --syslog-ident redis08 --dbfilename redisdump08.rdb --pidfile /var/tmp/redis08.pid
+./redis-server redis.conf --port 6409 --syslog-ident redis09 --dbfilename redisdump09.rdb --pidfile /var/tmp/redis09.pid
+./redis-server redis.conf --port 6410 --syslog-ident redis10 --dbfilename redisdump10.rdb --pidfile /var/tmp/redis10.pid
+./redis-server redis.conf --port 6411 --syslog-ident redis11 --dbfilename redisdump11.rdb --pidfile /var/tmp/redis11.pid
+./redis-server redis.conf --port 6412 --syslog-ident redis12 --dbfilename redisdump12.rdb --pidfile /var/tmp/redis12.pid
+./redis-server redis.conf --port 6413 --syslog-ident redis13 --dbfilename redisdump13.rdb --pidfile /var/tmp/redis13.pid
+./redis-server redis.conf --port 6414 --syslog-ident redis14 --dbfilename redisdump14.rdb --pidfile /var/tmp/redis14.pid
+./redis-server redis.conf --port 6415 --syslog-ident redis15 --dbfilename redisdump15.rdb --pidfile /var/tmp/redis15.pid
+./redis-server redis.conf --port 6416 --syslog-ident redis16 --dbfilename redisdump16.rdb --pidfile /var/tmp/redis16.pid
+./redis-server redis.conf --port 6417 --syslog-ident redis17 --dbfilename redisdump17.rdb --pidfile /var/tmp/redis17.pid
+./redis-server redis.conf --port 6418 --syslog-ident redis18 --dbfilename redisdump18.rdb --pidfile /var/tmp/redis18.pid
+./redis-server redis.conf --port 6419 --syslog-ident redis19 --dbfilename redisdump19.rdb --pidfile /var/tmp/redis19.pid
+./redis-server redis.conf --port 6420 --syslog-ident redis20 --dbfilename redisdump20.rdb --pidfile /var/tmp/redis20.pid
+./redis-server redis.conf --port 6421 --syslog-ident redis21 --dbfilename redisdump21.rdb --pidfile /var/tmp/redis21.pid
+./redis-server redis.conf --port 6422 --syslog-ident redis22 --dbfilename redisdump22.rdb --pidfile /var/tmp/redis22.pid
+./redis-server redis.conf --port 6423 --syslog-ident redis23 --dbfilename redisdump23.rdb --pidfile /var/tmp/redis23.pid
+./redis-server redis.conf --port 6424 --syslog-ident redis24 --dbfilename redisdump24.rdb --pidfile /var/tmp/redis24.pid
+./redis-server redis.conf --port 6425 --syslog-ident redis25 --dbfilename redisdump25.rdb --pidfile /var/tmp/redis25.pid
+./redis-server redis.conf --port 6426 --syslog-ident redis26 --dbfilename redisdump26.rdb --pidfile /var/tmp/redis26.pid
+./redis-server redis.conf --port 6427 --syslog-ident redis27 --dbfilename redisdump27.rdb --pidfile /var/tmp/redis27.pid
+./redis-server redis.conf --port 6428 --syslog-ident redis28 --dbfilename redisdump28.rdb --pidfile /var/tmp/redis28.pid
+./redis-server redis.conf --port 6429 --syslog-ident redis29 --dbfilename redisdump29.rdb --pidfile /var/tmp/redis29.pid
+./redis-server redis.conf --port 6430 --syslog-ident redis30 --dbfilename redisdump30.rdb --pidfile /var/tmp/redis30.pid
+./redis-server redis.conf --port 6431 --syslog-ident redis31 --dbfilename redisdump31.rdb --pidfile /var/tmp/redis31.pid
+./redis-server redis.conf --port 6432 --syslog-ident redis32 --dbfilename redisdump32.rdb --pidfile /var/tmp/redis32.pid
+./redis-server redis.conf --port 6433 --syslog-ident redis33 --dbfilename redisdump33.rdb --pidfile /var/tmp/redis33.pid
+./redis-server redis.conf --port 6434 --syslog-ident redis34 --dbfilename redisdump34.rdb --pidfile /var/tmp/redis34.pid
+./redis-server redis.conf --port 6435 --syslog-ident redis35 --dbfilename redisdump35.rdb --pidfile /var/tmp/redis35.pid
+./redis-server redis.conf --port 6436 --syslog-ident redis36 --dbfilename redisdump36.rdb --pidfile /var/tmp/redis36.pid
+./redis-server redis.conf --port 6437 --syslog-ident redis37 --dbfilename redisdump37.rdb --pidfile /var/tmp/redis37.pid
+./redis-server redis.conf --port 6438 --syslog-ident redis38 --dbfilename redisdump38.rdb --pidfile /var/tmp/redis38.pid
+./redis-server redis.conf --port 6439 --syslog-ident redis39 --dbfilename redisdump39.rdb --pidfile /var/tmp/redis39.pid
+./redis-server redis.conf --port 6440 --syslog-ident redis40 --dbfilename redisdump40.rdb --pidfile /var/tmp/redis40.pid
+./redis-server redis.conf --port 6441 --syslog-ident redis41 --dbfilename redisdump41.rdb --pidfile /var/tmp/redis41.pid
+./redis-server redis.conf --port 6442 --syslog-ident redis42 --dbfilename redisdump42.rdb --pidfile /var/tmp/redis42.pid
+./redis-server redis.conf --port 6443 --syslog-ident redis43 --dbfilename redisdump43.rdb --pidfile /var/tmp/redis43.pid
+./redis-server redis.conf --port 6444 --syslog-ident redis44 --dbfilename redisdump44.rdb --pidfile /var/tmp/redis44.pid
+./redis-server redis.conf --port 6445 --syslog-ident redis45 --dbfilename redisdump45.rdb --pidfile /var/tmp/redis45.pid
+./redis-server redis.conf --port 6446 --syslog-ident redis46 --dbfilename redisdump46.rdb --pidfile /var/tmp/redis46.pid
+./redis-server redis.conf --port 6447 --syslog-ident redis47 --dbfilename redisdump47.rdb --pidfile /var/tmp/redis47.pid
+./redis-server redis.conf --port 6448 --syslog-ident redis48 --dbfilename redisdump48.rdb --pidfile /var/tmp/redis48.pid
+./redis-server redis.conf --port 6449 --syslog-ident redis49 --dbfilename redisdump49.rdb --pidfile /var/tmp/redis49.pid
+./redis-server redis.conf --port 6450 --syslog-ident redis50 --dbfilename redisdump50.rdb --pidfile /var/tmp/redis50.pid
+./redis-server redis.conf --port 6451 --syslog-ident redis51 --dbfilename redisdump51.rdb --pidfile /var/tmp/redis51.pid
+./redis-server redis.conf --port 6452 --syslog-ident redis52 --dbfilename redisdump52.rdb --pidfile /var/tmp/redis52.pid
+./redis-server redis.conf --port 6453 --syslog-ident redis53 --dbfilename redisdump53.rdb --pidfile /var/tmp/redis53.pid
+./redis-server redis.conf --port 6454 --syslog-ident redis54 --dbfilename redisdump54.rdb --pidfile /var/tmp/redis54.pid
+./redis-server redis.conf --port 6455 --syslog-ident redis55 --dbfilename redisdump55.rdb --pidfile /var/tmp/redis55.pid
+./redis-server redis.conf --port 6456 --syslog-ident redis56 --dbfilename redisdump56.rdb --pidfile /var/tmp/redis56.pid
+./redis-server redis.conf --port 6457 --syslog-ident redis57 --dbfilename redisdump57.rdb --pidfile /var/tmp/redis57.pid
+./redis-server redis.conf --port 6458 --syslog-ident redis58 --dbfilename redisdump58.rdb --pidfile /var/tmp/redis58.pid
+./redis-server redis.conf --port 6459 --syslog-ident redis59 --dbfilename redisdump59.rdb --pidfile /var/tmp/redis59.pid
+./redis-server redis.conf --port 6460 --syslog-ident redis60 --dbfilename redisdump60.rdb --pidfile /var/tmp/redis60.pid
+./redis-server redis.conf --port 6461 --syslog-ident redis61 --dbfilename redisdump61.rdb --pidfile /var/tmp/redis61.pid
+./redis-server redis.conf --port 6462 --syslog-ident redis62 --dbfilename redisdump62.rdb --pidfile /var/tmp/redis62.pid
+./redis-server redis.conf --port 6463 --syslog-ident redis63 --dbfilename redisdump63.rdb --pidfile /var/tmp/redis63.pid
+
+#kill `cat /var/tmp/nutcracker.pid`
+./nutcracker -c ./nutcracker.yml -p /var/tmp/nutcracker.pid -d
